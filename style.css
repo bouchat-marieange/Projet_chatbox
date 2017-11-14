@@ -1,0 +1,40 @@
+html
+{
+  margin: 0;
+}
+
+label
+{
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  width: 150px;
+  display: block;
+  float: left;
+}
+
+#header
+{
+  display: block;
+  margin-top: 0px;
+  height: 80px;
+  line-height: 80px;
+  width: 100%;
+  background-color: #a50000;
+}
+
+.bouton_header
+{
+  background-color: #272727;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  padding: 7px 10px;
+  color: white;
+  border: solid 1px #272727;
+  border-radius: 3px;
+  text-decoration: none;
+  display: inline-block;
+  float: right;
+  margin-right: 15px;
+  margin-top: 20px;
+}
